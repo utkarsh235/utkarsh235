@@ -1,9 +1,5 @@
 ### Hi there 👋 This is Utkarsh Gupta, A third year Computer Science Undergrad from Thapar Institute of Science and Technology(TIET). I am a smart working indivisual always looking for new opportunities in various fields.
 
-
-<!--
-**utkarsh235/utkarsh235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Machine Learning, Data Science and Data Analysis
