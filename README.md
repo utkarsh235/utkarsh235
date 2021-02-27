@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Machine Learning, Data Science and Data Analysis
 - 🌱 I’m currently learning Django
-- 👯 I’m looking to collaborate on a Research opportunity in field of ML/AI (Majorly) or any other Computer Science related projectsand Hackathons (Minorly)
+- 👯 I’m looking to collaborate on a Research opportunity in field of ML/AI (Majorly) or any other Computer Science related projects and Hackathons (Minorly)
 - 🤔 I’m looking for help with Competitive Programming
 - 💬 Ask me about structured or unstructured ML/DL questions and I'd be pleased to help you
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/utkarsh-gupta007/
