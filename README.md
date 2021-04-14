@@ -1,4 +1,4 @@
-### Hi there 👋 This is Utkarsh Gupta, A third year Computer Science Undergrad from Thapar Institute of Science and Technology(TIET). I am a smart working indivisual always looking for new opportunities in various fields.
+### Hi there 👋 This is Utkarsh Gupta, A third year Computer Science Undergrad from Thapar Institute of Engineering and Technology(TIET). I am a smart working indivisual always looking for new opportunities in various fields.
 
 Here are some ideas to get you started:
 
