@@ -1,4 +1,4 @@
-### Hi there 👋 This is Utkarsh Gupta, A 3+ year corporate developer, Former Computer Science Undergrad from Thapar Institute of Engineering and Technology(TIET). I am a smart working indivisual always looking for new opportunities in various fields.
+### Hi there 👋 This is Utkarsh Gupta, A 3+ year corporate developer at a Fintech product based organization, Former Computer Science Undergrad from Thapar Institute of Engineering and Technology(TIET). I am a smart working indivisual always looking for new opportunities in various fields.
 
 - 🔭 I’m currently working on Machine Learning, Data Science and LLM NLP Projects.
 - 🌱 I’m currently learning Competitive Programming.
